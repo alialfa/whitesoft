@@ -1,4 +1,4 @@
-**WHITESOFT APP**
+**WHITESOFT APP** - [Visit Project Site](https://ali-whitesoft-01.ew.r.appspot.com/)
 
 This is a small project to showcase a React form submission of user data via a NodeJS backend running Mongo.
 
@@ -26,5 +26,5 @@ open http://localhost:3000/
 
 **N/B:**
 
-- [LocalDev]: update config/keys.js in project root with your mongo database URI
+- LocalDev >>: update config/keys.js in project root with your mongo database URI
 - [Production]: include a env_vars.yaml file in project root for environment variables
