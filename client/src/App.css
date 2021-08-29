@@ -1,0 +1,15 @@
+.App {
+  text-align: left;
+  height: 100vh;
+  background-color: gainsboro;
+  font-family: cursive;
+  font-size: large;
+  color: rgb(9, 9, 105);
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*min-height: 80vh;*/
+}
