@@ -18,7 +18,7 @@ class App extends Component {
       country: "",
       dbUsers: [],
       showUserData: false,
-      url: "https://api-dot-gcp02-324318.uc.r.appspot.com",
+      url: "https://api-dot-ali-whitesoft-01.ew.r.appspot.com",
     };
     this.handleSubmit = this.handleSubmit.bind(this);
     this.handleShow = this.handleShow.bind(this);

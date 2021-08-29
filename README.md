@@ -17,3 +17,8 @@ inside the root folder, cd to client.
 > npm start
 
 open http://localhost:3000/
+
+N/B:
+
+- Local Development: update config/keys.js in project root with your mongo database URI
+- Production: include a env_vars.yaml file in project root for environment variables
