@@ -56,6 +56,8 @@ class App extends Component {
 
     if (!fullname || fullname === "")
       newErrors.fullname = "> please provide a fullname";
+    else if (!fullname.match(/^[a-zA-Z ]+$/))
+      newErrors.fullname = "> fullname must consist of letters only..";
     if (!country || country === "")
       newErrors.country = "> please select your country";
 
