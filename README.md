@@ -1,4 +1,10 @@
-To run myWhiteSoft app code:
+**WHITESOFT APP**
+
+This is a small project to showcase a React form submission of user data via a NodeJS backend running Mongo.
+
+Hosted on: Google Cloud Platform
+
+**RUNNING THE APP**
 
 clone the repo locally.
 
@@ -18,7 +24,7 @@ inside the root folder, cd to client.
 
 open http://localhost:3000/
 
-N/B:
+**N/B:**
 
-- Local Development: update config/keys.js in project root with your mongo database URI
-- Production: include a env_vars.yaml file in project root for environment variables
+- [LocalDev]: update config/keys.js in project root with your mongo database URI
+- [Production]: include a env_vars.yaml file in project root for environment variables
