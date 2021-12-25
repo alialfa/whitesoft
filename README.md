@@ -1,6 +1,6 @@
 **WHITESOFT APP** - [Visit Project Site](https://ali-whitesoft-01.ew.r.appspot.com/)
 
-This is a small project to showcase a React form submission of user data via a NodeJS backend running Mongo.
+This is a small project to showcase a React form validation & submission of user data via a NodeJS backend running Mongo.
 
 Hosted on: Google Cloud Platform
 
